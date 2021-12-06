@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 11
+echo 8
